@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm John Curran, and I'm currently a Senior Data Analyst at First American.
+
+*"You are meant to be helping people"*
 
 <!--
 **curohn/curohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
