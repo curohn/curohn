@@ -6,7 +6,7 @@ I'm John Curran, and I'm currently a Senior Data Analyst at First American.
 - Logistic Regression Example
 
 #### Repos
-- (Global Temperatures){https://github.com/curohn/global_temperatures} - Linear Regression Example
+- [Global Temperatures](https://github.com/curohn/global_temperatures) - Linear Regression Example
 <!--
 **curohn/curohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
