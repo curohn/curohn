@@ -5,6 +5,7 @@ I'm John Curran, and I'm currently a Senior Data Analyst at First American.
 
 #### Repos
 - [Global Temperatures](https://github.com/curohn/global_temperatures) - Linear Regression Example
+- [Personal Website](https://github.com/curohn/personal_blog) - Personal website to host and showcase work
 <!--
 **curohn/curohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
