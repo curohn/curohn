@@ -1,12 +1,13 @@
 ### Hi there 👋
-I'm John Curran, and I'm currently a Senior Data Analyst at First American.
+I'm John Curran, and I'm currently a Senior Data Analyst at First American Title, working on the Sequoia project. 
 
-*"You are meant to be helping people"*
+#### Currently Working on:
+- [Wage Distribution](https://github.com/curohn/wage_distribution) - In progress project to learn to measure differences in distributions, and demonstrate exploritory data analysis skills
 
 #### Repos
 - [Global Temperatures](https://github.com/curohn/global_temperatures) - Linear Regression Example
 - [Personal Website](https://github.com/curohn/personal_blog) - Personal website to host and showcase work
-- [Wage Distribution](https://github.com/curohn/wage_distribution) - In progress project to learn to measure differences in distributions
+
 <!--
 **curohn/curohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+*"You are meant to be helping people"*
