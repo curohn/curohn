@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm John Curran, and I'm currently a Senior Data Analyst at First American Title, working on the Sequoia project. 
+I'm John Curran, and I'm a Senior Data Analyst. 
 
 #### Currently Working on:
 - [Wage Distribution](https://github.com/curohn/wage_distribution) - In progress project to learn to measure differences in distributions, and demonstrate exploritory data analysis skills
