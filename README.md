@@ -2,7 +2,8 @@
 I'm John Curran, and I'm a Senior Data Analyst. 
 
 #### Currently Working on:
-- [Wage Distribution](https://github.com/curohn/wage_distribution) - In progress project to learn to measure differences in distributions, and demonstrate exploritory data analysis skills
+- [Delivery App Simulation]{https://github.com/curohn/delivery_app_simulation} - Build a demo data app, and run analysis on it
+- [Wage Distribution](https://github.com/curohn/wage_distribution) - project to learn to measure differences in distributions, and demonstrate exploritory data analysis skills
 
 #### Repos
 - [Global Temperatures](https://github.com/curohn/global_temperatures) - Linear Regression Example
