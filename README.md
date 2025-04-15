@@ -2,7 +2,7 @@
 I'm John Curran, and I'm a Senior Data Analyst. 
 
 #### Currently Working on:
-- [Delivery App Simulation]{https://github.com/curohn/delivery_app_simulation} - Build a demo data app, and run analysis on it
+- [Delivery App Simulation](https://github.com/curohn/delivery_app_simulation) - Build a demo data app, and run analysis on it
 - [Wage Distribution](https://github.com/curohn/wage_distribution) - project to learn to measure differences in distributions, and demonstrate exploritory data analysis skills
 
 #### Repos
