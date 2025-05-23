@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm John Curran, and I'm a Senior Data Analyst. 
+I'm John Curran, and I'm a Data & Analytics Manager. 
 
 #### Currently Working on:
 - [Delivery App Simulation](https://github.com/curohn/delivery_app_simulation) - Build a demo data app, and run analysis on it
