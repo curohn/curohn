@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 *"You are meant to be helping people"*
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=curohn&layout=compact&hide=Jupyter%20Notebook,Procfile">
