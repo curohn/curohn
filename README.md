@@ -3,26 +3,13 @@ I'm John Curran, and I'm a Data & Analytics Manager.
 
 #### Currently Working on:
 - [Pebble Marta](https://github.com/curohn/pebble_marta) - Watch app for Pebble smart watches that pulls in live train times from MARTA apis
-- [Wage Distribution](https://github.com/curohn/wage_distribution) - project to learn to measure differences in distributions, and demonstrate exploritory data analysis skills
 
 #### Repos
 - [Global Temperatures](https://github.com/curohn/global_temperatures) - Linear Regression Example
 - [Personal Website](https://github.com/curohn/personal_blog) - Personal website to host and showcase work
+- [Red Rocks Climbs](https://github.com/curohn/red_rocks_climbs) - An analysis of climbs, ordered by a 1 way ring road using gps coordinates to optimize our time at the crag.
 
-<!--
-**curohn/curohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 *"You are meant to be helping people"*
 
 
